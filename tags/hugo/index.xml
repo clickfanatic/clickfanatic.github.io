@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>hugo on click.</title>
+    <link>/tags/hugo/</link>
+    <description>Recent content in hugo on click.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>clickfanatic</copyright>
+    <lastBuildDate>Sat, 28 Dec 2019 17:59:52 +0800</lastBuildDate>
+    
+	<atom:link href="/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>hello hugo</title>
+      <link>/posts/hello-hugo/</link>
+      <pubDate>Sat, 28 Dec 2019 17:59:52 +0800</pubDate>
+      
+      <guid>/posts/hello-hugo/</guid>
+      <description>After a few hours of tinkering with Jekyll for my blog, I&#39;ve finally made the jump to HUGO. Setup is easy and straightforward, It took me more time in deciding which theme to use and which host to deploy my site than the setup itself.
+Installation Since I&#39;m on Arch Linux, installation is as easy as:
+$ sudo pacman -S hugo Creating a site Now that HUGO is installed, create a new site by running</description>
+    </item>
+    
+  </channel>
+</rss>

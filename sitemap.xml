@@ -8,7 +8,17 @@
   </url>
   
   <url>
+    <loc>/tags/guide/</loc>
+    <lastmod>2019-12-28T17:59:52+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/posts/hello-hugo/</loc>
+    <lastmod>2019-12-28T17:59:52+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/hugo/</loc>
     <lastmod>2019-12-28T17:59:52+08:00</lastmod>
   </url>
   
@@ -18,11 +28,12 @@
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>/tags/</loc>
+    <lastmod>2019-12-28T17:59:52+08:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>/categories/</loc>
   </url>
   
 </urlset>
