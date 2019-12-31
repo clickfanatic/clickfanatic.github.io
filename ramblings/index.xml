@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>clicl.</title>
-    <link>/</link>
-    <description>Recent content on clicl.</description>
+    <title>Ramblings on clicl.</title>
+    <link>/ramblings/</link>
+    <description>Recent content in Ramblings on clicl.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 28 Dec 2019 17:59:52 +0800</lastBuildDate>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/ramblings/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
