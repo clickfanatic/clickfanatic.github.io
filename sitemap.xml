@@ -1,1 +1,114 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url><loc>/</loc><lastmod>2019-12-31T13:50:33+08:00</lastmod></url><url><loc>/notif/</loc><lastmod>2019-12-31T13:50:33+08:00</lastmod></url><url><loc>/notif/now/</loc><lastmod>2019-12-31T13:50:33+08:00</lastmod></url><url><loc>/tags/guide/</loc><lastmod>2019-12-28T17:59:52+08:00</lastmod></url><url><loc>/ramblings/hello-hugo/</loc><lastmod>2019-12-28T17:59:52+08:00</lastmod></url><url><loc>/tags/hugo/</loc><lastmod>2019-12-28T17:59:52+08:00</lastmod></url><url><loc>/tags/linux/</loc><lastmod>2019-12-28T17:59:52+08:00</lastmod></url><url><loc>/ramblings/</loc><lastmod>2019-12-28T17:59:52+08:00</lastmod></url><url><loc>/tags/</loc><lastmod>2019-12-28T17:59:52+08:00</lastmod></url><url><loc>/categories/</loc></url></urlset>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2019-12-31T19:10:33+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/deploy/</loc>
+    <lastmod>2019-12-31T19:10:33+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/ramblings/deploy-your-hugo-static-website-with-github-pages/</loc>
+    <lastmod>2019-12-31T19:10:33+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/git/</loc>
+    <lastmod>2019-12-31T19:10:33+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/github/</loc>
+    <lastmod>2019-12-31T19:10:33+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/github-pages/</loc>
+    <lastmod>2019-12-31T19:10:33+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/hugo/</loc>
+    <lastmod>2019-12-31T19:10:33+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/ramblings/</loc>
+    <lastmod>2019-12-31T19:10:33+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/static-website/</loc>
+    <lastmod>2019-12-31T19:10:33+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2019-12-31T19:10:33+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/bulma/</loc>
+    <lastmod>2019-12-31T19:07:31+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/ramblings/bulma-got-me-back-to-webdesign/</loc>
+    <lastmod>2019-12-31T19:07:31+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/css/</loc>
+    <lastmod>2019-12-31T19:07:31+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/webdesign/</loc>
+    <lastmod>2019-12-31T19:07:31+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/notif/</loc>
+    <lastmod>2019-12-31T13:50:33+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/notif/now/</loc>
+    <lastmod>2019-12-31T13:50:33+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/about/</loc>
+    <lastmod>2019-12-31T10:01:27+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/about/me/</loc>
+    <lastmod>2019-12-31T10:01:27+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/guide/</loc>
+    <lastmod>2019-12-28T17:59:52+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/ramblings/hello-hugo/</loc>
+    <lastmod>2019-12-28T17:59:52+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/linux/</loc>
+    <lastmod>2019-12-28T17:59:52+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+  </url>
+  
+</urlset>

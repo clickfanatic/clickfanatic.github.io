@@ -1,3 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Ramblings on click.</title><link>/ramblings/</link><description>Recent content in Ramblings on click.</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 28 Dec 2019 17:59:52 +0800</lastBuildDate><atom:link href="/ramblings/index.xml" rel="self" type="application/rss+xml"/><item><title>hello hugo</title><link>/ramblings/hello-hugo/</link><pubDate>Sat, 28 Dec 2019 17:59:52 +0800</pubDate><guid>/ramblings/hello-hugo/</guid><description>After a few hours of tinkering with Jekyll for my blog, I've finally made the jump to HUGO. Setup is easy and straightforward, It took me more time in deciding which theme to use and which host to deploy my site than the setup itself.
-Installation Since I'm on Arch Linux, installation is as easy as:
-$ sudo pacman -S hugo Creating a site Now that HUGO is installed, create a new site by running</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ramblings on click.</title>
+    <link>/ramblings/</link>
+    <description>Recent content in Ramblings on click.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 31 Dec 2019 19:10:33 +0800</lastBuildDate>
+    
+	<atom:link href="/ramblings/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Deploy Your Hugo Static Website With Github Pages with git</title>
+      <link>/ramblings/deploy-your-hugo-static-website-with-github-pages/</link>
+      <pubDate>Tue, 31 Dec 2019 19:10:33 +0800</pubDate>
+      
+      <guid>/ramblings/deploy-your-hugo-static-website-with-github-pages/</guid>
+      <description>Deploying your static website in Github Pages can be as easy as uploading all the files in github via the web browser. But if you are going to work on your site on a regular basis, it is best to use git.
+Git can be overwhelming but you will only need to know a few lines of code in order to commit your changes.</description>
+    </item>
+    
+    <item>
+      <title>Bulma Got Me Back to Webdesign</title>
+      <link>/ramblings/bulma-got-me-back-to-webdesign/</link>
+      <pubDate>Tue, 31 Dec 2019 19:07:31 +0800</pubDate>
+      
+      <guid>/ramblings/bulma-got-me-back-to-webdesign/</guid>
+      <description>I was</description>
+    </item>
+    
+    <item>
+      <title>hello hugo</title>
+      <link>/ramblings/hello-hugo/</link>
+      <pubDate>Sat, 28 Dec 2019 17:59:52 +0800</pubDate>
+      
+      <guid>/ramblings/hello-hugo/</guid>
+      <description>After a few hours of tinkering with Jekyll for my blog, I&#39;ve finally made the jump to HUGO. Setup is easy and straightforward, It took me more time in deciding which theme to use and which host to deploy my site than the setup itself.
+Installation Since I&#39;m on Arch Linux, installation is as easy as:
+$ sudo pacman -S hugo Creating a site Now that HUGO is installed, create a new site by running</description>
+    </item>
+    
+  </channel>
+</rss>

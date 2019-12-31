@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>deploy on click.</title>
+    <link>/tags/deploy/</link>
+    <description>Recent content in deploy on click.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 31 Dec 2019 19:10:33 +0800</lastBuildDate>
+    
+	<atom:link href="/tags/deploy/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Deploy Your Hugo Static Website With Github Pages with git</title>
+      <link>/ramblings/deploy-your-hugo-static-website-with-github-pages/</link>
+      <pubDate>Tue, 31 Dec 2019 19:10:33 +0800</pubDate>
+      
+      <guid>/ramblings/deploy-your-hugo-static-website-with-github-pages/</guid>
+      <description>Deploying your static website in Github Pages can be as easy as uploading all the files in github via the web browser. But if you are going to work on your site on a regular basis, it is best to use git.
+Git can be overwhelming but you will only need to know a few lines of code in order to commit your changes.</description>
+    </item>
+    
+  </channel>
+</rss>
