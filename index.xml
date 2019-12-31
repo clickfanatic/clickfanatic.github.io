@@ -6,10 +6,29 @@
     <description>Recent content on clicl.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 28 Dec 2019 17:59:52 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 31 Dec 2019 13:50:33 +0800</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Now</title>
+      <link>/notif/now/</link>
+      <pubDate>Tue, 31 Dec 2019 13:50:33 +0800</pubDate>
+      
+      <guid>/notif/now/</guid>
+      <description>I&#39;m not commissioning any freelance work at the moment. I&#39;m too busy fulfilling my dream as a professional internet troll during my spare time. Also, moonlighting as a meme thief takes off some of my time.</description>
+    </item>
+    
+    <item>
+      <title>Me</title>
+      <link>/about/me/</link>
+      <pubDate>Tue, 31 Dec 2019 10:01:27 +0800</pubDate>
+      
+      <guid>/about/me/</guid>
+      <description>Hi! I&#39;m clickfanatic. I go by the name Kristine in real life and normally I&#39;m not this blue. I&#39;m a former freelance web designer/PHP developer from the Philippines now focusing on the care of actual human beings a.k.a BS Nursing.
+I coded this site using Bulma CSS, compiled with SASS, and then ported it to HUGO. I&#39;m currently leeching off Github Pages for hosting cause I&#39;m broke. All the tools I used to build this site are opensource.</description>
+    </item>
     
     <item>
       <title>hello hugo</title>
