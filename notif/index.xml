@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Notifs on clicl.</title>
+    <title>Notifs on click.</title>
     <link>/notif/</link>
-    <description>Recent content in Notifs on clicl.</description>
+    <description>Recent content in Notifs on click.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 31 Dec 2019 13:50:33 +0800</lastBuildDate>
