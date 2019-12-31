@@ -6,91 +6,10 @@
     <description>Recent content in Tags on click.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 31 Dec 2019 19:10:33 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 28 Dec 2019 17:59:52 +0800</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>deploy</title>
-      <link>/tags/deploy/</link>
-      <pubDate>Tue, 31 Dec 2019 19:10:33 +0800</pubDate>
-      
-      <guid>/tags/deploy/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>git</title>
-      <link>/tags/git/</link>
-      <pubDate>Tue, 31 Dec 2019 19:10:33 +0800</pubDate>
-      
-      <guid>/tags/git/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>github</title>
-      <link>/tags/github/</link>
-      <pubDate>Tue, 31 Dec 2019 19:10:33 +0800</pubDate>
-      
-      <guid>/tags/github/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>github pages</title>
-      <link>/tags/github-pages/</link>
-      <pubDate>Tue, 31 Dec 2019 19:10:33 +0800</pubDate>
-      
-      <guid>/tags/github-pages/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>hugo</title>
-      <link>/tags/hugo/</link>
-      <pubDate>Tue, 31 Dec 2019 19:10:33 +0800</pubDate>
-      
-      <guid>/tags/hugo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>static website</title>
-      <link>/tags/static-website/</link>
-      <pubDate>Tue, 31 Dec 2019 19:10:33 +0800</pubDate>
-      
-      <guid>/tags/static-website/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>bulma</title>
-      <link>/tags/bulma/</link>
-      <pubDate>Tue, 31 Dec 2019 19:07:31 +0800</pubDate>
-      
-      <guid>/tags/bulma/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>css</title>
-      <link>/tags/css/</link>
-      <pubDate>Tue, 31 Dec 2019 19:07:31 +0800</pubDate>
-      
-      <guid>/tags/css/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>webdesign</title>
-      <link>/tags/webdesign/</link>
-      <pubDate>Tue, 31 Dec 2019 19:07:31 +0800</pubDate>
-      
-      <guid>/tags/webdesign/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>guide</title>
@@ -98,6 +17,15 @@
       <pubDate>Sat, 28 Dec 2019 17:59:52 +0800</pubDate>
       
       <guid>/tags/guide/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hugo</title>
+      <link>/tags/hugo/</link>
+      <pubDate>Sat, 28 Dec 2019 17:59:52 +0800</pubDate>
+      
+      <guid>/tags/hugo/</guid>
       <description></description>
     </item>
     

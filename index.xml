@@ -6,29 +6,10 @@
     <description>Recent content on click.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 31 Dec 2019 19:10:33 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 31 Dec 2019 13:50:33 +0800</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Deploy Your Hugo Static Website With Github Pages with git</title>
-      <link>/ramblings/deploy-your-hugo-static-website-with-github-pages/</link>
-      <pubDate>Tue, 31 Dec 2019 19:10:33 +0800</pubDate>
-      
-      <guid>/ramblings/deploy-your-hugo-static-website-with-github-pages/</guid>
-      <description>Deploying your static website in Github Pages can be as easy as uploading all the files in github via the web browser. But if you are going to work on your site on a regular basis, it is best to use git.
-Git can be overwhelming but you will only need to know a few lines of code in order to commit your changes.</description>
-    </item>
-    
-    <item>
-      <title>Bulma Got Me Back to Webdesign</title>
-      <link>/ramblings/bulma-got-me-back-to-webdesign/</link>
-      <pubDate>Tue, 31 Dec 2019 19:07:31 +0800</pubDate>
-      
-      <guid>/ramblings/bulma-got-me-back-to-webdesign/</guid>
-      <description>I was</description>
-    </item>
     
     <item>
       <title>Now</title>
@@ -37,16 +18,6 @@ Git can be overwhelming but you will only need to know a few lines of code in or
       
       <guid>/notif/now/</guid>
       <description>I&#39;m not commissioning any freelance work at the moment. I&#39;m too busy fulfilling my dream as a professional internet troll during my spare time. Also, moonlighting as a meme thief takes off some of my time.</description>
-    </item>
-    
-    <item>
-      <title>Me</title>
-      <link>/about/me/</link>
-      <pubDate>Tue, 31 Dec 2019 10:01:27 +0800</pubDate>
-      
-      <guid>/about/me/</guid>
-      <description>Hi! I&#39;m clickfanatic. I go by the name Kristine in real life and normally I&#39;m not this blue. I&#39;m a former freelance web designer/PHP developer from the Philippines now focusing on the care of actual human beings a.k.a BS Nursing.
-I coded this site using Bulma CSS, compiled with SASS, and then ported it to HUGO. I&#39;m currently leeching off Github Pages for hosting cause I&#39;m broke. All the tools I used to build this site are opensource.</description>
     </item>
     
     <item>
